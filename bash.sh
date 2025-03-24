@@ -6,3 +6,4 @@ do
    let COUNTER=$COUNTER+1 
 done
 
+The practice started
